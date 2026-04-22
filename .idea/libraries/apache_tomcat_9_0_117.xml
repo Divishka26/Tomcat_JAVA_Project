@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-9.0.117">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apache-tomcat-9.0.117.zip!/" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.117/apache-tomcat-9.0.117/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/apache-tomcat-9.0.117.zip!/apache-tomcat-9.0.117/webapps/docs/appdev/sample/src" />
+      <root url="jar://$USER_HOME$/Downloads/apache-tomcat-9.0.117.zip!/apache-tomcat-9.0.117/webapps/examples/WEB-INF/classes" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.117/apache-tomcat-9.0.117/lib" recursive="false" />
+  </library>
+</component>
